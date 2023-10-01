@@ -6,7 +6,7 @@ public class PrinterApp {
   
         System.out.println("This app is made by:");
 
-        // Step 4
+  
         String creator = "Your Name"; // Replace "Your Name" with your actual name
 
         // Step 5
