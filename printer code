@@ -1,6 +1,6 @@
 public class PrinterApp {
     public static void main(String[] args) {
-        // Step 2
+  
         System.out.println("Printer App");
 
         // Step 3
